@@ -1,0 +1,12 @@
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\engines\CustomerCreator.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\engines\MainEngine.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\threads\ReaderThread.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\commons\Utils.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\models\Transaction.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\resourceManagers\DataSourceManager.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\threads\MappingThread.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\commons\Constants.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\commons\Defines.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\resourceManagers\OracleAQClient.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\threads\DequeingThread.java
+C:\Users\abdalrahman.sharawy\workspace\CustomerEnquererDequeuer\src\main\java\asset\customerEnquerDequer\threads\EnqueuingThread.java
